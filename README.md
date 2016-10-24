@@ -7,8 +7,8 @@
 
 ## User Stories:
 
-* What is the most common color of the puppies on this list?
-* List all squeaky toys that have a popularity rating above 8.
-* Which dogwalker walks the cutest dogs (cuteness above 8)?
-* What is the cutest breed?
-* What is the oldest dog?
+* Lists colors of dogs
+* List all squeaky toys by type
+* Finds dogs walked by a certain dogwalker
+* Determines cutest dog breed
+* Determines oldest dog
